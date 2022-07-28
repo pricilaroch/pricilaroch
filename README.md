@@ -1,6 +1,6 @@
    #                                                                👾       WELCOME, SERES TECNOLOGICOS       👾
 
-- 👋 Olá, meu nome é Pricila, mas pode chamar de Pri!
+- 👋 Olá, meu nome é Pricila, mas pode me chamar de Pri!
 - 👀 Estou muito interessada pelo universo de tecnologia e resolvi encarrar esse novo desafio em minha vida.
 - 🌱 Atualemento estou cursando Data Analytics pelo Google e conhecendo mais desse mundo.
 - 💞️ Espero poder conta com a sua ajuda, se tem alguma dica para iniciantes, não exite em me chamar, ficarei agradecida.
