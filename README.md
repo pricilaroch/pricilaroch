@@ -1,4 +1,4 @@
-   #                                                                👾       WELCOME, SERES TECNOLOGICOS       👾
+   #                                                                👾      WELCOME, WebAmigxs     👾
 
 - 👋 Olá, meu nome é Pricila, mas pode me chamar de Pri!
 - 👀 Estou muito interessada pelo universo de tecnologia e resolvi encarrar esse novo desafio em minha vida.
