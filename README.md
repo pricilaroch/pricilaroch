@@ -1,8 +1,8 @@
    #                                                                👾 WELCOME 👾
 
 - 👋 Olá, meu nome é Pricila
-- 👀 Estou muito interessada pelo universo de tecnologia e resolvi encarrar esse novo desafio em minha vida;
-- 🌱 Atualmente estou cursando Sistemas de Informação na Universidade Federal de Uberlândia\ MG;
+- 👀 Estou muito interessada pelo universo de tecnologia e resolvi encarrar esse novo desafio em minha vida
+- 🌱 Atualmente estou cursando Sistemas de Informação na Universidade Federal de Uberlândia\ MG
 
 - 📫 meu contato https://www.linkedin.com/in/pricilarocha/
 
