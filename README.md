@@ -4,7 +4,6 @@
 - 👀 Estou muito interessada pelo universo de tecnologia e resolvi encarrar esse novo desafio em minha vida
 - 🌱 Atualmente estou cursando Sistemas de Informação na Universidade Federal de Uberlândia\ MG
 
-- 📫 meu contato https://www.linkedin.com/in/pricilarocha/
 
 <!---
 pricilaroch/pricilaroch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
